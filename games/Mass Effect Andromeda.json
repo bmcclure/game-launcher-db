@@ -1,0 +1,9 @@
+{
+    "name": "Mass Effect Andromeda",
+    "launchers": {
+        "default": "origin",
+        "origin": {
+            "gameId": "MassEffectAndromeda.exe"
+        }
+    }
+}

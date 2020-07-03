@@ -1,0 +1,10 @@
+{
+    "name": "Apex Legends",
+    "launchers": {
+        "default": "origin",
+        "origin": {
+            "launcherType": "OriginLauncher",
+            "gameId": "r5apex.exe"
+        }
+    }
+}

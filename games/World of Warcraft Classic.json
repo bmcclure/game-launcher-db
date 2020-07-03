@@ -1,0 +1,9 @@
+{
+    "name": "World of Warcraft Classic",
+    "launchers": {
+        "default": "blizzard",
+        "blizzard": {
+            "gameId": "wowclassic" 
+        }
+    }
+}

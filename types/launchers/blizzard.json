@@ -1,0 +1,10 @@
+{
+    "name": "Blizzard",
+    "class": "BlizzardLauncher",
+    "gameDefaults": {
+        "gameType": "bnetlauncher"
+    },
+    "required": [
+        "gameId"
+    ]
+}

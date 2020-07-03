@@ -1,0 +1,9 @@
+{
+    "name": "The Cycle",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "The Cycle.exe"
+        }
+    }
+}

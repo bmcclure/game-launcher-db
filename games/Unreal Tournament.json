@@ -1,0 +1,9 @@
+{
+    "name": "Tropico 6",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "UE4-Win64-Shipping.exe"
+        }
+    }
+}

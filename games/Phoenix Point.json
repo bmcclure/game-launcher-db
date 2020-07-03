@@ -1,0 +1,9 @@
+{
+    "name": "Phoenix Point",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "PhoenixPointWin64.exe"
+        }
+    }
+}

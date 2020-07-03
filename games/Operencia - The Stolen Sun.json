@@ -1,0 +1,9 @@
+{
+    "name": "Operencia - The Stolen Sun",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "Operencia-Win64-Shipping.exe"
+        }
+    }
+}

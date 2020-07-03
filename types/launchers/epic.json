@@ -1,0 +1,8 @@
+{
+    "name": "Epic",
+    "class": "EpicLauncher",
+    "gameDefaults": {},
+    "required": [
+        "gameId"
+    ]
+}

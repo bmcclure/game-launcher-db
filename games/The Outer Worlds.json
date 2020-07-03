@@ -1,0 +1,9 @@
+{
+    "name": "The Outer Worlds",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "IndianaEpicGameStore-Win64-Shipping.exe"
+        }
+    }
+}

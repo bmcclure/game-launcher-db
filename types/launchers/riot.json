@@ -1,0 +1,8 @@
+{
+    "name": "Riot",
+    "class": "RiotLauncher",
+    "gameDefaults": {
+        "gameType": "riot"
+    },
+    "required": []
+}

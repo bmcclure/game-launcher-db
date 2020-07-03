@@ -1,0 +1,11 @@
+{
+    "name": "Halo - The Master Chief Collection",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "UnrealWindow",
+            "useClass": true,
+            "gameShortcut": "shell:appsFolder\\Microsoft.Chelan_8wekyb3d8bbwe!HaloMCCShipping"
+        }
+    }
+}

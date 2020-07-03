@@ -1,0 +1,9 @@
+{
+    "name": "Mirror's Edge Catalyst",
+    "launchers": {
+        "default": "origin",
+        "origin": {
+            "gameId": "MirrorsEdgeCatalyst.exe"
+        }
+    }
+}

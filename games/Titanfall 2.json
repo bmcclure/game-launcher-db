@@ -1,0 +1,9 @@
+{
+    "name": "Titanfall 2",
+    "launchers": {
+        "default": "origin",
+        "origin": {
+            "gameId": "Titanfall2.exe"
+        }
+    }
+}

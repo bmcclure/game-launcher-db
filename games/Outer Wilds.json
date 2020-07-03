@@ -1,0 +1,9 @@
+{
+    "name": "Outer Wilds",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "OuterWilds.exe"
+        }
+    }
+}

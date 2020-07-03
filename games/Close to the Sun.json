@@ -1,0 +1,9 @@
+{
+    "name": "Close to the Sun",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "ctts-Win64-Shipping.exe"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "World of Warcraft",
+    "launchers": {
+        "default": "blizzard",
+        "blizzard": {
+            "gameId": "wow" 
+        }
+    }
+}

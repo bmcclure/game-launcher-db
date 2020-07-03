@@ -1,0 +1,9 @@
+{
+    "name": "Star Wars Battlefront",
+    "launchers": {
+        "default": "origin",
+        "origin": {
+            "gameId": "starwarsbattlefront.exe"
+        }
+    }
+}

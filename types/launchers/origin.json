@@ -1,0 +1,10 @@
+{
+    "name": "Origin",
+    "class": "OriginLauncher",
+    "gameDefaults": {
+        "gameType": "game"
+    },
+    "required": [
+        "gameId"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Microsoft Store",
+    "class": "MicrosoftStoreLauncher",
+    "gameDefaults": {
+        "gameType": "microsoft"
+    },
+    "required": [
+        "gameId",
+        "gameShortcut"
+    ]
+}

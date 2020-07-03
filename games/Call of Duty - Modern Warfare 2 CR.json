@@ -1,0 +1,9 @@
+{
+    "name": "Call of Duty - Modern Warfare 2 CR",
+    "launchers": {
+        "default": "blizzard",
+        "blizzard": {
+            "gameId": "codmw2cr"
+        }
+    }
+}

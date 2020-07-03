@@ -1,0 +1,10 @@
+{
+    "name": "Dauntless",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "Dauntless-Win64-Shipping.exe",
+            "shortcut": "com.epicgames.launcher://apps/Jackal?action=launch&silent=true"
+        }
+    }
+}

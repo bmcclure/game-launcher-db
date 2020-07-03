@@ -1,0 +1,9 @@
+{
+    "name": "Overwatch",
+    "launchers": {
+        "default": "blizzard",
+        "blizzard": {
+            "gameId": "ow"
+        }
+    }
+}

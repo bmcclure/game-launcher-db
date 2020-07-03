@@ -1,0 +1,9 @@
+{
+    "name": "SimCity",
+    "launchers": {
+        "default": "origin",
+        "origin": {
+            "gameId": "SimCity.exe"
+        }
+    }
+}

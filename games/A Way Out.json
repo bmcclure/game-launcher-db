@@ -1,0 +1,9 @@
+{
+    "name": "A Way Out",
+    "launchers": {
+        "default": "origin",
+        "origin": {
+            "gameId": "AWayOut.exe"
+        }
+    }
+}

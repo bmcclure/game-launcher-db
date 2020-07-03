@@ -1,0 +1,9 @@
+{
+    "name": "Observation",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "Observation.exe"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Borderlands 3",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "Borderlands3.exe"
+        }
+    }
+}

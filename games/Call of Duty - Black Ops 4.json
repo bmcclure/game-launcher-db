@@ -1,0 +1,9 @@
+{
+    "name": "Call of Duty - Black Ops 4",
+    "launchers": {
+        "default": "blizzard",
+        "blizzard": {
+            "gameId": "codbo4"
+        }
+    }
+}

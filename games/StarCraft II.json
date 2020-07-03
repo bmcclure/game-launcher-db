@@ -1,0 +1,9 @@
+{
+    "name": "StarCraft II",
+    "launchers": {
+        "default": "blizzard",
+        "blizzard": {
+            "gameId": "sc2"
+        }
+    }
+}

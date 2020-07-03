@@ -1,0 +1,9 @@
+{
+    "name": "Diablo III",
+    "launchers": {
+        "default": "blizzard",
+        "blizzard": {
+            "gameId": "d3"
+        }
+    }
+}

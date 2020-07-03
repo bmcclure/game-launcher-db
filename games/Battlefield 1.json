@@ -1,0 +1,9 @@
+{
+    "name": "Battlefield 1",
+    "launchers": {
+        "default": "origin",
+        "origin": {
+            "gameId": "bf1.exe"
+        }
+    }
+}

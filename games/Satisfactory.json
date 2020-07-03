@@ -1,0 +1,9 @@
+{
+    "name": "Satisfactory",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "FactoryGame-Win64-Shipping.exe"
+        }
+    }
+}

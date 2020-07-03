@@ -1,0 +1,9 @@
+{
+    "name": "Fortnite",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "FortniteClient-Win64-Shipping.exe"
+        }
+    }
+}

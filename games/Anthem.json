@@ -1,0 +1,9 @@
+{
+    "name": "Anthem",
+    "launchers": {
+        "default": "origin",
+        "origin": {
+            "gameId": "Anthem.exe"
+        }
+    }
+}

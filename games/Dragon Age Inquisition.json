@@ -1,0 +1,10 @@
+{
+    "name": "Dragon Age Inquisition",
+    "launchers": {
+        "default": "origin",
+        "origin": {
+            "gameId": "Dragon Age: Inquisition",
+            "useClass": true
+        }
+    }
+}

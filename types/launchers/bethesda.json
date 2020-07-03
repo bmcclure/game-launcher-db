@@ -1,0 +1,8 @@
+{
+    "name": "Bethesda",
+    "class": "BethesdaLauncher",
+    "gameDefaults": {},
+    "required": [
+        "gameId"
+    ]
+}

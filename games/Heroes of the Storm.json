@@ -1,0 +1,9 @@
+{
+    "name": "Heroes of the Storm",
+    "launchers": {
+        "default": "blizzard",
+        "blizzard": {
+            "gameId": "hots"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Superliminal",
+    "launchers": {
+        "default": "epic",
+        "epic": {
+            "gameId": "Superliminal.exe"
+        }
+    }
+}
