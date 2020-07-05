@@ -1,0 +1,7 @@
+{
+    "name": "Bnetlauncher",
+    "class": "Bnetlauncher",
+    "mainFile": "bnetlauncher.exe",
+    "url": "https://github.com/dafzor/bnetlauncher/releases/download/v2.09/bnetlauncher_v209.zip",
+    "downloadFile": "bnetlauncher.zip"
+}

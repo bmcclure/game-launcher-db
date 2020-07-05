@@ -1,6 +1,8 @@
 {
-    "name": "Blizzard",
-    "class": "BlizzardLauncher",
+    "name": "Blizzard Launcher",
+    "class": "GameLauncher",
+    "exe": "",
+    "shortcut": "",
     "gameDefaults": {
         "gameType": "bnetlauncher"
     },

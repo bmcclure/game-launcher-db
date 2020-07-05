@@ -1,8 +1,11 @@
 {
-    "name": "Riot",
-    "class": "RiotLauncher",
+    "name": "Riot Vanguard",
+    "class": "RiotVanguardLauncher",
+    "exe": "",
+    "shortcut": "",
     "gameDefaults": {
         "gameType": "riot"
     },
-    "required": []
+    "required": [],
+    "runThenWait": true
 }

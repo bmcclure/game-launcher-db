@@ -1,0 +1,7 @@
+{
+    "name": "IconsExt",
+    "class": "Dependency",
+    "mainFile": "iconsext.exe",
+    "url": "https://www.nirsoft.net/utils/iconsext.zip",
+    "downloadFile": "iconsext.zip"
+}

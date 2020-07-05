@@ -1,8 +1,14 @@
 {
-    "name": "Epic",
-    "class": "EpicLauncher",
+    "name": "Epic Games Launcher",
+    "class": "GameLauncher",
+    "exe": "EpicGamesLauncher.exe",
+    "shortcut": "",
     "gameDefaults": {},
     "required": [
         "gameId"
-    ]
+    ],
+    "closeBefore": true,
+    "closeAfter": true,
+    "runThenWait": true,
+    "killLauncher": true
 }

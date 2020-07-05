@@ -1,4 +1,8 @@
 {
     "name": "BnetLauncher",
-    "class": "BnetlauncherGame"
+    "class": "BnetlauncherGame",
+    "gameDefaults": {
+        "requiresShortcutFile": false
+    },
+    "required": []
 }

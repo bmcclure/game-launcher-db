@@ -1,4 +1,8 @@
 {
-    "name": "Microsoft Store",
-    "class": "MicrosoftStoreGame"
+    "name": "Microsoft Store Game",
+    "class": "Game",
+    "gameDefaults": {
+        "requiresShortcutFile": false
+    },
+    "required": []
 }

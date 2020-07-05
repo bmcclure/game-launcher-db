@@ -1,11 +1,14 @@
 {
     "name": "Microsoft Store",
-    "class": "MicrosoftStoreLauncher",
+    "class": "GameLauncher",
+    "exe": "",
+    "shortcut": "",
     "gameDefaults": {
         "gameType": "microsoft"
     },
     "required": [
         "gameId",
         "gameShortcut"
-    ]
+    ],
+    "runThenWait": true
 }

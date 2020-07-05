@@ -1,6 +1,8 @@
 {
     "name": "Game Launcher",
     "class": "GameLauncher",
+    "exe": "",
+    "shortcut": "",
     "gameDefaults": {
         "gameType": "default",
         "gameId": "",
