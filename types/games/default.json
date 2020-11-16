@@ -1,5 +1,7 @@
 {
     "name": "Game",
     "class": "ShortcutGame",
-    "defaults": {}
+    "defaults": {
+        "requiresShortcutFile": true
+    }
 }

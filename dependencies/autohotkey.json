@@ -4,5 +4,7 @@
     "mainFile": "Compiler\\Ahk2Exe.exe",
     "url": "https://www.autohotkey.com/download/ahk.zip",
     "downloadFile": "ahk.zip",
-    "assets": {}
+    "assets": {
+        "mpress/mpress.exe": "Compiler\\mpress.exe"
+    }
 }
