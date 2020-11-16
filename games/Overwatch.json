@@ -1,5 +1,6 @@
 {
     "name": "Overwatch",
+    "defaults": {},
     "launchers": {
         "default": "blizzard",
         "blizzard": {

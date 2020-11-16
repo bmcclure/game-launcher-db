@@ -1,5 +1,6 @@
 {
     "name": "A Way Out",
+    "defaults": {},
     "launchers": {
         "default": "origin",
         "origin": {

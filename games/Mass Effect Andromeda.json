@@ -1,5 +1,6 @@
 {
     "name": "Mass Effect Andromeda",
+    "defaults": {},
     "launchers": {
         "default": "origin",
         "origin": {

@@ -1,16 +1,12 @@
 {
     "name": "Origin",
-    "class": "GameLauncher",
+    "class": "LauncherLauncher",
     "exe": "Origin.exe",
-    "shortcut": "",
-    "gameDefaults": {
-        "gameType": "game"
-    },
-    "required": [
-        "gameId"
-    ],
-    "closeBefore": true,
-    "closeAfter": true,
-    "runThenWait": true,
-    "killLauncher": true
+    "defaults": {
+        "gameType": "default",
+        "runThenWait": true,
+        "autoKillLauncher": true,
+        "closeLauncherBefore": true,
+        "closeLauncherAfter": true
+    }
 }

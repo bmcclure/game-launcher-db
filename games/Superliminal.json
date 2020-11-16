@@ -1,5 +1,6 @@
 {
     "name": "Superliminal",
+    "defaults": {},
     "launchers": {
         "default": "epic",
         "epic": {

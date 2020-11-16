@@ -1,12 +1,8 @@
 {
     "name": "Blizzard Launcher",
-    "class": "GameLauncher",
+    "class": "ThinLauncher",
     "exe": "",
-    "shortcut": "",
-    "gameDefaults": {
+    "defaults": {
         "gameType": "bnetlauncher"
-    },
-    "required": [
-        "gameId"
-    ]
+    }
 }

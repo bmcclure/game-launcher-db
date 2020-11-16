@@ -1,10 +1,11 @@
 {
     "name": "Metro Exodus",
+    "defaults": {},
     "launchers": {
         "default": "epic",
         "epic": {
             "gameId": "4A Engine",
-            "useClass": true
+            "useAhkClass": true
         }
     }
 }

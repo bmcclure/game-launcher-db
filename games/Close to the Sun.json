@@ -1,5 +1,6 @@
 {
     "name": "Close to the Sun",
+    "defaults": {},
     "launchers": {
         "default": "epic",
         "epic": {

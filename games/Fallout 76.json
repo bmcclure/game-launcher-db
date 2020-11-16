@@ -1,10 +1,11 @@
 {
     "name": "Fallout 76",
+    "defaults": {},
     "launchers": {
         "default": "bethesda",
         "bethesda": {
             "gameId": "Fallout76",
-            "useClass": true
+            "useAhkClass": true
         }
     }
 }

@@ -1,5 +1,6 @@
 {
     "name": "Call of Duty - Modern Warfare",
+    "defaults": {},
     "launchers": {
         "default": "blizzard",
         "blizzard": {

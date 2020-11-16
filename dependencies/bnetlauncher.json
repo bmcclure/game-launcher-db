@@ -1,7 +1,10 @@
 {
     "name": "Bnetlauncher",
-    "class": "Bnetlauncher",
+    "class": "Dependency",
     "mainFile": "bnetlauncher.exe",
     "url": "https://github.com/dafzor/bnetlauncher/releases/download/v2.09/bnetlauncher_v209.zip",
-    "downloadFile": "bnetlauncher.zip"
+    "downloadFile": "bnetlauncher.zip",
+    "assets": {
+        "gamedb.ini": "gamedb.ini"
+    }
 }

@@ -1,5 +1,6 @@
 {
     "name": "Battlefield 1",
+    "defaults": {},
     "launchers": {
         "default": "origin",
         "origin": {

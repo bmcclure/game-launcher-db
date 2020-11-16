@@ -1,5 +1,6 @@
 {
     "name": "Satisfactory",
+    "defaults": {},
     "launchers": {
         "default": "epic",
         "epic": {

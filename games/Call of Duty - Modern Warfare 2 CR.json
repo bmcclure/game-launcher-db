@@ -1,5 +1,6 @@
 {
     "name": "Call of Duty - Modern Warfare 2 CR",
+    "defaults": {},
     "launchers": {
         "default": "blizzard",
         "blizzard": {

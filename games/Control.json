@@ -1,5 +1,6 @@
 {
     "name": "Control",
+    "defaults": {},
     "launchers": {
         "default": "epic",
         "epic": {

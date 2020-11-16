@@ -1,5 +1,6 @@
 {
     "name": "The Outer Worlds",
+    "defaults": {},
     "launchers": {
         "default": "epic",
         "epic": {

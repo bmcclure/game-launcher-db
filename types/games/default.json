@@ -1,6 +1,5 @@
 {
     "name": "Game",
-    "class": "Game",
-    "gameDefaults": {},
-    "required": []
+    "class": "ShortcutGame",
+    "defaults": {}
 }

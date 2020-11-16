@@ -1,5 +1,6 @@
 {
     "name": "World of Warcraft",
+    "defaults": {},
     "launchers": {
         "default": "blizzard",
         "blizzard": {

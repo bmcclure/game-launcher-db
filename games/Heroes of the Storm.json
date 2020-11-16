@@ -1,5 +1,6 @@
 {
     "name": "Heroes of the Storm",
+    "defaults": {},
     "launchers": {
         "default": "blizzard",
         "blizzard": {

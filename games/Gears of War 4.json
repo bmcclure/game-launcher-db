@@ -1,10 +1,11 @@
 {
     "name": "Gears of War 4",
+    "defaults": {},
     "launchers": {
         "default": "microsoft",
         "microsoft": {
             "gameId": "GearGame.exe",
-            "gameShortcut": "shell:appsFolder\\Microsoft.SpartaUWP_8wekyb3d8bbwe!GearGameShippingPublic"
+            "uri": "shell:appsFolder\\Microsoft.SpartaUWP_8wekyb3d8bbwe!GearGameShippingPublic"
         }
     }
 }

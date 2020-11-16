@@ -1,5 +1,6 @@
 {
     "name": "Diablo III",
+    "defaults": {},
     "launchers": {
         "default": "blizzard",
         "blizzard": {

@@ -1,5 +1,6 @@
 {
     "name": "SimCity",
+    "defaults": {},
     "launchers": {
         "default": "origin",
         "origin": {

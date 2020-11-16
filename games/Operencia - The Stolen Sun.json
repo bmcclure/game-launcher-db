@@ -1,5 +1,6 @@
 {
     "name": "Operencia - The Stolen Sun",
+    "defaults": {},
     "launchers": {
         "default": "epic",
         "epic": {

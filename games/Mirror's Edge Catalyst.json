@@ -1,5 +1,6 @@
 {
     "name": "Mirror's Edge Catalyst",
+    "defaults": {},
     "launchers": {
         "default": "origin",
         "origin": {

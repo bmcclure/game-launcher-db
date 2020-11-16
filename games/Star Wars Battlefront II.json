@@ -1,5 +1,6 @@
 {
     "name": "Star Wars Battlefront II",
+    "defaults": {},
     "launchers": {
         "default": "origin",
         "origin": {

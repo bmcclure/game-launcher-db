@@ -1,5 +1,6 @@
 {
     "name": "Titanfall 2",
+    "defaults": {},
     "launchers": {
         "default": "origin",
         "origin": {

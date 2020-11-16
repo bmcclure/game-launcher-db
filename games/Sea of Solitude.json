@@ -1,5 +1,6 @@
 {
     "name": "Sea of Solitude",
+    "defaults": {},
     "launchers": {
         "default": "origin",
         "origin": {

@@ -1,5 +1,6 @@
 {
     "name": "Anthem",
+    "defaults": {},
     "launchers": {
         "default": "origin",
         "origin": {

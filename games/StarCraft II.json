@@ -1,5 +1,6 @@
 {
     "name": "StarCraft II",
+    "defaults": {},
     "launchers": {
         "default": "blizzard",
         "blizzard": {

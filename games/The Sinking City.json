@@ -1,5 +1,6 @@
 {
     "name": "The Sinking City",
+    "defaults": {},
     "launchers": {
         "default": "epic",
         "epic": {

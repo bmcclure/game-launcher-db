@@ -1,14 +1,9 @@
 {
     "name": "Microsoft Store",
-    "class": "GameLauncher",
+    "class": "ThinLauncher",
     "exe": "",
-    "shortcut": "",
-    "gameDefaults": {
-        "gameType": "microsoft"
-    },
-    "required": [
-        "gameId",
-        "gameShortcut"
-    ],
-    "runThenWait": true
+    "defaults": {
+        "gameType": "microsoft",
+        "runThenWait": true
+    }
 }

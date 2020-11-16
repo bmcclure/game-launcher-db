@@ -1,5 +1,6 @@
 {
     "name": "Phoenix Point",
+    "defaults": {},
     "launchers": {
         "default": "epic",
         "epic": {

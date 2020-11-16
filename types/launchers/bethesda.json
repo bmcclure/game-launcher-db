@@ -1,14 +1,12 @@
 {
     "name": "Bethesda.net Launcher",
-    "class": "GameLauncher",
+    "class": "LauncherLauncher",
     "exe": "BethesdaNetLauncher.exe",
-    "shortcut": "Bethesda.net.lnk",
-    "gameDefaults": {},
-    "required": [
-        "gameId"
-    ],
-    "closeBefore": true,
-    "closeAfter": true,
-    "runThenWait": true,
-    "killLauncher": true
+    "defaults": {
+        "gameType": "default",
+        "runThenWait": true,
+        "autoKillLauncher": true,
+        "closeLauncherBefore": true,
+        "closeLauncherAfter": true
+    }
 }

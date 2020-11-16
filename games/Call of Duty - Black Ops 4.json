@@ -1,5 +1,6 @@
 {
     "name": "Call of Duty - Black Ops 4",
+    "defaults": {},
     "launchers": {
         "default": "blizzard",
         "blizzard": {

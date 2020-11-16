@@ -1,16 +1,8 @@
 {
-    "name": "Game Launcher",
-    "class": "GameLauncher",
+    "name": "Launcher",
+    "class": "Launcher",
     "exe": "",
-    "shortcut": "",
-    "gameDefaults": {
-        "gameType": "default",
-        "gameId": "",
-        "gameShortcut": "",
-        "gameIcon": "",
-        "workingDir": "",
-        "useClass": false,
-        "requiresWorkingDir": false
-    },
-    "required": []
+    "defaults": {
+        "gameType": "default"
+    }
 }
