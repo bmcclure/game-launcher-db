@@ -1,0 +1,10 @@
+{
+    "name": "Call of Duty - Black Ops Cold War",
+    "defaults": {},
+    "launchers": {
+        "default": "blizzard",
+        "blizzard": {
+            "gameId": "codbocw"
+        }
+    }
+}
