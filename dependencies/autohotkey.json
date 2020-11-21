@@ -6,7 +6,7 @@
     "downloadFile": "ahk.zip",
     "assets": {},
     "downloads": {
-        "Compiler\\mpress.exe": "https://github.com/bmcclure/launcher-db/releases/download/1.0/mpress.exe",
-        "Compiler\\Ahk2Exe.exe": "https://github.com/bmcclure/launcher-db/releases/download/1.0/Ahk2Exe.exe"
+        "Compiler\\mpress.exe": "https://github.com/bmcclure/launcher-db/releases/download/1.0.2/mpress.exe",
+        "Compiler\\Ahk2Exe.exe": "https://github.com/bmcclure/launcher-db/releases/download/1.0.2/Ahk2Exe.exe"
     }
 }
