@@ -6,10 +6,12 @@
     "downloadFile": "ahk.zip",
     "assets": {
         "MPRESS": {
+            "type": "download",
             "url": "https://github.com/bmcclure/launcher-db/releases/download/1.0.2/mpress.exe",
             "path": "Compiler\\mpress.exe"
         },
         "Ahk2Exe": {
+            "type": "download",
             "url": "https://github.com/bmcclure/launcher-db/releases/download/1.0.2/Ahk2Exe.exe",
             "path": "Compiler\\Ahk2Exe.exe"
         }
