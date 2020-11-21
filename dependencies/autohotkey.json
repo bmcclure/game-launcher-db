@@ -4,9 +4,14 @@
     "mainFile": "Compiler\\Ahk2Exe.exe",
     "url": "https://www.autohotkey.com/download/2.0/AutoHotkey_2.0-a122-f595abc2.zip",
     "downloadFile": "ahk.zip",
-    "assets": {},
-    "downloads": {
-        "Compiler\\mpress.exe": "https://github.com/bmcclure/launcher-db/releases/download/1.0.2/mpress.exe",
-        "Compiler\\Ahk2Exe.exe": "https://github.com/bmcclure/launcher-db/releases/download/1.0.2/Ahk2Exe.exe"
+    "assets": {
+        "MPRESS": {
+            "url": "https://github.com/bmcclure/launcher-db/releases/download/1.0.2/mpress.exe",
+            "path": "Compiler\\mpress.exe"
+        },
+        "Ahk2Exe": {
+            "url": "https://github.com/bmcclure/launcher-db/releases/download/1.0.2/Ahk2Exe.exe",
+            "path": "Compiler\\Ahk2Exe.exe"
+        }
     }
 }
