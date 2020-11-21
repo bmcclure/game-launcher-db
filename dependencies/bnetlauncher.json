@@ -6,5 +6,6 @@
     "downloadFile": "bnetlauncher.zip",
     "assets": {
         "gamedb.ini": "gamedb.ini"
-    }
+    },
+    "downloads": {}
 }

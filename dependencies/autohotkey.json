@@ -2,9 +2,11 @@
     "name": "AutoHotKey",
     "class": "Dependency",
     "mainFile": "Compiler\\Ahk2Exe.exe",
-    "url": "https://www.autohotkey.com/download/ahk.zip",
+    "url": "https://www.autohotkey.com/download/2.0/AutoHotkey_2.0-a122-f595abc2.zip",
     "downloadFile": "ahk.zip",
-    "assets": {
-        "mpress/mpress.exe": "Compiler\\mpress.exe"
+    "assets": {},
+    "downloads": {
+        "Compiler\\mpress.exe": "https://github.com/bmcclure/launcher-db/releases/download/1.0/mpress.exe",
+        "Compiler\\Ahk2Exe.exe": "https://github.com/bmcclure/launcher-db/releases/download/1.0/Ahk2Exe.exe"
     }
 }
