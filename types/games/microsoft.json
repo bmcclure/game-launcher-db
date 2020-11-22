@@ -3,5 +3,6 @@
     "class": "UriGame",
     "defaults": {
         "requiresShortcutFile": false
-    }
+    },
+    "requiredOptions": []
 }

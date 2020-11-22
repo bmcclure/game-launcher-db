@@ -3,5 +3,6 @@
     "class": "ShortcutGame",
     "defaults": {
         "requiresShortcutFile": true
-    }
+    },
+    "requiredOptions": []
 }

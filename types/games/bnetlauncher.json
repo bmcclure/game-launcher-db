@@ -3,5 +3,6 @@
     "class": "BnetlauncherGame",
     "defaults": {
         "requiresShortcutFile": false
-    }
+    },
+    "requiredOptions": []
 }
