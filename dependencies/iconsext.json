@@ -1,11 +1,9 @@
 {
     "name": "IconsExt",
-    "class": "Dependency",
+    "class": "DownloadableDependency",
     "mainFile": "iconsext.exe",
     "url": "https://www.nirsoft.net/utils/iconsext.zip",
     "downloadFile": "iconsext.zip",
     "assets": {},
-    "downloads": {
-        
-    }
+    "downloads": {}
 }
