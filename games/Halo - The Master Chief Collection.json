@@ -6,7 +6,7 @@
         "epic": {
             "gameId": "UnrealWindow",
             "useAhkClass": true,
-            "uri": "shell:appsFolder\\Microsoft.Chelan_8wekyb3d8bbwe!HaloMCCShipping"
+            "runCmd": "shell:appsFolder\\Microsoft.Chelan_8wekyb3d8bbwe!HaloMCCShipping"
         }
     }
 }

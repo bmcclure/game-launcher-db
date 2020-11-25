@@ -2,7 +2,7 @@
     "name": "Game",
     "class": "ShortcutGame",
     "defaults": {
-        "requiresShortcutFile": true
+        "usesShortcutFile": true
     },
     "requiredOptions": []
 }

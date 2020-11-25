@@ -5,7 +5,7 @@
         "default": "epic",
         "epic": {
             "gameId": "Dauntless-Win64-Shipping.exe",
-            "uri": "com.epicgames.launcher://apps/Jackal?action=launch&silent=true"
+            "runCmd": "com.epicgames.launcher://apps/Jackal?action=launch&silent=true"
         }
     }
 }

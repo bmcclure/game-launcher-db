@@ -2,7 +2,7 @@
     "name": "BnetLauncher",
     "class": "BnetlauncherGame",
     "defaults": {
-        "requiresShortcutFile": false
+        "usesShortcutFile": false
     },
     "requiredOptions": []
 }

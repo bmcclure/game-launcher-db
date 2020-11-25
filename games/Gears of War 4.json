@@ -5,7 +5,7 @@
         "default": "microsoft",
         "microsoft": {
             "gameId": "GearGame.exe",
-            "uri": "shell:appsFolder\\Microsoft.SpartaUWP_8wekyb3d8bbwe!GearGameShippingPublic"
+            "runCmd": "shell:appsFolder\\Microsoft.SpartaUWP_8wekyb3d8bbwe!GearGameShippingPublic"
         }
     }
 }
