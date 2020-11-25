@@ -2,7 +2,7 @@
     "name": "Microsoft Store Game",
     "class": "UriGame",
     "defaults": {
-        "usesShortcut": false
+        "supportsShortcut": false
     },
     "requiredOptions": []
 }
