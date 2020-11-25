@@ -4,6 +4,7 @@
     "mainFile": "bnetlauncher.exe",
     "url": "https://github.com/dafzor/bnetlauncher/releases/download/v2.11/bnetlauncher_v211.zip",
     "downloadFile": "bnetlauncher.zip",
+    "zipped": true,
     "assets": {
         "gamedb.ini": "gamedb.ini"
     },

@@ -4,6 +4,7 @@
     "mainFile": "iconsext.exe",
     "url": "https://www.nirsoft.net/utils/iconsext.zip",
     "downloadFile": "iconsext.zip",
+    "zipped": true,
     "assets": {},
     "downloads": {}
 }

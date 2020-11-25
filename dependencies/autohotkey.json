@@ -4,6 +4,7 @@
     "mainFile": "Compiler\\Ahk2Exe.exe",
     "url": "https://www.autohotkey.com/download/2.0/AutoHotkey_2.0-a122-f595abc2.zip",
     "downloadFile": "ahk.zip",
+    "zipped": true,
     "assets": {
         "MPRESS": {
             "type": "download",
