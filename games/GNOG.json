@@ -1,10 +1,10 @@
 {
-    "name": "GNOG",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "GNOG.exe"
-        }
+    "Key": "GNOG",
+    "Defaults": {
+        "GameExe": "GNOG.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }

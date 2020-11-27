@@ -1,10 +1,11 @@
 {
-    "name": "Operencia - The Stolen Sun",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "Operencia-Win64-Shipping.exe"
-        }
+    "Key": "Operencia - The Stolen Sun",
+    "Defaults": {
+        "DisplayName": "Operencia: The Stolen Sun",
+        "GameExe": "Operencia-Win64-Shipping.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }

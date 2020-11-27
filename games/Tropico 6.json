@@ -1,10 +1,10 @@
 {
-    "name": "Tropico 6",
-    "defaults": {},
-    "launchers": {
-        "default": "origin",
-        "origin": {
-            "gameId": "Tropico6-Win64-Shipping.exe"
-        }
+    "Key": "Tropico 6",
+    "Defaults": {
+        "GameExe": "Tropico6-Win64-Shipping.exe"
+    },
+    "Launchers": {
+        "Default": "Origin",
+        "Origin": {}
     }
 }

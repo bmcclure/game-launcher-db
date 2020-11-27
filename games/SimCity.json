@@ -1,10 +1,10 @@
 {
-    "name": "SimCity",
-    "defaults": {},
-    "launchers": {
-        "default": "origin",
-        "origin": {
-            "gameId": "SimCity.exe"
-        }
+    "Key": "SimCity",
+    "Defaults": {
+        "GameExe": "SimCity.exe"
+    },
+    "Launchers": {
+        "Default": "Origin",
+        "Origin": {}
     }
 }

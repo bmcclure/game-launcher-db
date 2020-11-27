@@ -1,12 +1,13 @@
 {
-    "name": "Origin",
-    "class": "LauncherLauncher",
-    "exe": "Origin.exe",
-    "defaults": {
-        "gameType": "default",
-        "runThenWait": true,
-        "autoKillLauncher": true,
-        "closeLauncherBefore": true,
-        "closeLauncherAfter": true
+    "Key": "Origin",
+    "Name": "Origin",
+    "Defaults": {
+        "LauncherClass": "LauncherLauncher",
+        "LauncherExe": "Origin.exe",
+        "GameEntityType": "Default",
+        "GameRunMethod": "Run",
+        "LauncherCloseMethod": "AutoKill",
+        "LauncherCloseBeforeRun": true,
+        "LauncherCloseAfterRun": true
     }
 }

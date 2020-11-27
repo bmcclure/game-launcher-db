@@ -1,10 +1,10 @@
 {
-    "name": "StarCraft II",
-    "defaults": {},
-    "launchers": {
-        "default": "blizzard",
-        "blizzard": {
-            "gameId": "sc2"
+    "Key": "StarCraft II",
+    "Defaults": {},
+    "Launchers": {
+        "Default": "Blizzard",
+        "Blizzard": {
+            "LauncherSpecificId": "sc2"
         }
     }
 }

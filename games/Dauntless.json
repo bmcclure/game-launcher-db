@@ -1,11 +1,12 @@
 {
-    "name": "Dauntless",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "Dauntless-Win64-Shipping.exe",
-            "runCmd": "com.epicgames.launcher://apps/Jackal?action=launch&silent=true"
+    "Key": "Dauntless",
+    "Defaults": {
+        "GameExe": "Dauntless-Win64-Shipping.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {
+            "GameRunCmd": "com.Epicgames.launcher://apps/Jackal?action=launch&silent=true"
         }
     }
 }

@@ -1,12 +1,13 @@
 {
-    "name": "Epic Games Launcher",
-    "class": "LauncherLauncher",
-    "exe": "EpicGamesLauncher.exe",
-    "defaults": {
-        "gameType": "default",
-        "runThenWait": true,
-        "autoKillLauncher": true,
-        "closeLauncherBefore": true,
-        "closeLauncherAfter": true
+    "Key": "Epic",
+    "Name": "Epic Games Launcher",
+    "Defaults": {
+        "LauncherClass": "LauncherLauncher",
+        "LauncherExe": "EpicGamesLauncher.exe",
+        "GameEntityType": "Default",
+        "GameRunMethod": "Run",
+        "LauncherCloseMethod": "AutoKill",
+        "LauncherCloseBeforeRun": true,
+        "LauncherCloseAfterRun": true
     }
 }

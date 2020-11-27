@@ -1,11 +1,12 @@
 {
-    "name": "Dragon Age Inquisition",
-    "defaults": {},
-    "launchers": {
-        "default": "origin",
-        "origin": {
-            "gameId": "Dragon Age: Inquisition",
-            "useAhkClass": true
-        }
+    "Key": "Dragon Age Inquisition",
+    "Defaults": {
+        "DisplayName": "Dragon Age: Inquisition",
+        "GameProcessType": "Title",
+        "GameProcessId": "Dragon Age: Inquisition"
+    },
+    "Launchers": {
+        "Default": "Origin",
+        "Origin": {}
     }
 }

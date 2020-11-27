@@ -1,10 +1,9 @@
 {
-    "name": "Titanfall 2",
-    "defaults": {},
-    "launchers": {
-        "default": "origin",
-        "origin": {
-            "gameId": "Titanfall2.exe"
-        }
+    "Key": "Titanfall 2",
+    "Defaults": {
+        "GameExe": "Titanfall2.exe"
+    },
+    "Launchers": {
+        "Default": "Origin"
     }
 }

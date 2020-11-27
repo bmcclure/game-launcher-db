@@ -1,12 +1,14 @@
 {
-    "name": "Halo - The Master Chief Collection",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "UnrealWindow",
-            "useAhkClass": true,
-            "runCmd": "shell:appsFolder\\Microsoft.Chelan_8wekyb3d8bbwe!HaloMCCShipping"
+    "Key": "Halo - Master Chief Collection",
+    "Defaults": {
+        "DisplayName": "Halo: Master Chief Collection",
+        "GameProcessType": "Class",
+        "GameProcessId": "UnrealWindow"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {
+            "GameRunCmd": "shell:appsFolder\\Microsoft.Chelan_8wekyb3d8bbwe!HaloMCCShipping"
         }
     }
 }

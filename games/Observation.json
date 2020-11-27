@@ -1,10 +1,10 @@
 {
-    "name": "Observation",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "Observation.exe"
-        }
+    "Key": "Observation",
+    "Defaults": {
+        "GameExe": "Observation.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }

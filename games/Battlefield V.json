@@ -1,10 +1,10 @@
 {
-    "name": "Battlefield V",
-    "defaults": {},
-    "launchers": {
-        "default": "origin",
-        "origin": {
-            "gameId": "bfv.exe"
-        }
+    "Key": "Battlefield V",
+    "Defaults": {
+        "GameExe": "bfv.exe"
+    },
+    "Launchers": {
+        "Default": "Origin",
+        "Origin": {}
     }
 }

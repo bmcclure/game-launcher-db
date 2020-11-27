@@ -1,10 +1,10 @@
 {
-    "name": "The Sinking City",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "TSCGame-Win64-Shipping.exe"
-        }
+    "Key": "The Sinking City",
+    "Defaults": {
+        "GameExe": "TSCGame-Win64-Shipping.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }

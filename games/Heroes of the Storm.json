@@ -1,10 +1,10 @@
 {
-    "name": "Heroes of the Storm",
-    "defaults": {},
-    "launchers": {
-        "default": "blizzard",
-        "blizzard": {
-            "gameId": "hots"
+    "Key": "Heroes of the Storm",
+    "Defaults": {},
+    "Launchers": {
+        "Default": "Blizzard",
+        "Blizzard": {
+            "LauncherSpecificId": "hots"
         }
     }
 }

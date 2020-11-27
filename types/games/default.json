@@ -1,8 +1,7 @@
 {
-    "name": "Game",
-    "class": "ShortcutGame",
-    "defaults": {
-        "supportsShortcut": true
-    },
-    "requiredOptions": []
+    "Key": "Game",
+    "Defaults": {
+        "GameClass": "ShortcutGame",
+        "GameUsesShortcut": true
+    }
 }

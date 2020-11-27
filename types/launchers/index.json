@@ -1,11 +1,11 @@
 {
     "items": [
-        "default",
-        "bethesda",
-        "blizzard",
-        "epic",
-        "microsoft",
-        "origin",
-        "riot"
+        "Default",
+        "Bethesda",
+        "Blizzard",
+        "Epic",
+        "Microsoft",
+        "Origin",
+        "Riot"
     ]
 }

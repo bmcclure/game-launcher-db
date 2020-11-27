@@ -1,10 +1,12 @@
 {
-    "name": "Call of Duty - Modern Warfare",
-    "defaults": {},
-    "launchers": {
-        "default": "blizzard",
-        "blizzard": {
-            "gameId": "codmw2019"
+    "Key": "Call of Duty - Modern Warfare",
+    "Defaults": {
+        "DisplayName": "Call of Duty: Modern Warfare"
+    },
+    "Launchers": {
+        "Default": "Blizzard",
+        "Blizzard": {
+            "LauncherSpecificId": "codmw2019"
         }
     }
 }

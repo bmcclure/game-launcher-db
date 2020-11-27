@@ -1,9 +1,9 @@
 {
+    "Key": "Microsoft",
     "name": "Microsoft Store",
-    "class": "ThinLauncher",
-    "exe": "",
-    "defaults": {
-        "gameType": "microsoft",
-        "runThenWait": true
+    "Defaults": {
+        "LauncherClass": "ThinLauncher",
+        "GameEntityType": "Microsoft",
+        "GameRunMethod": "Run"
     }
 }

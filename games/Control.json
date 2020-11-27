@@ -1,10 +1,10 @@
 {
-    "name": "Control",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "Control_DX12.exe"
-        }
+    "Key": "Control",
+    "Defaults": {
+        "GameExe": "Control_DX12.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }

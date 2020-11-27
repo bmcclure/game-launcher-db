@@ -1,12 +1,12 @@
 {
-    "name": "Bnetlauncher",
-    "class": "DownloadableDependency",
-    "mainFile": "bnetlauncher.exe",
-    "url": "https://github.com/dafzor/bnetlauncher/releases/download/v2.11/bnetlauncher_v211.zip",
-    "downloadFile": "bnetlauncher.zip",
-    "zipped": true,
-    "assets": {
+    "Key": "BnetLauncher",
+    "Name": "BnetLauncher",
+    "Class": "DownloadableDependency",
+    "MainFile": "bnetlauncher.exe",
+    "Url": "https://github.com/dafzor/bnetlauncher/releases/download/v2.11/bnetlauncher_v211.zip",
+    "DownloadFile": "bnetlauncher.zip",
+    "Zipped": true,
+    "Assets": {
         "gamedb.ini": "gamedb.ini"
-    },
-    "downloads": {}
+    }
 }

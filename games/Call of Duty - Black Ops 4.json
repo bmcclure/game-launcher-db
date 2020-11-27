@@ -1,10 +1,12 @@
 {
-    "name": "Call of Duty - Black Ops 4",
-    "defaults": {},
-    "launchers": {
-        "default": "blizzard",
-        "blizzard": {
-            "gameId": "codbo4"
+    "Key": "Call of Duty - Black Ops 4",
+    "Defaults": {
+        "DisplayName": "Call of Duty: Black Ops 4"
+    },
+    "Launchers": {
+        "Default": "Blizzard",
+        "Blizzard": {
+            "LauncherSpecificId": "codbo4"
         }
     }
 }

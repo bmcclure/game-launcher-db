@@ -1,10 +1,10 @@
 {
-    "name": "Tropico 6",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "UE4-Win64-Shipping.exe"
-        }
+    "Key": "Tropico 6",
+    "Defaults": {
+        "GameExe": "UE4-Win64-Shipping.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }

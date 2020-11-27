@@ -1,10 +1,10 @@
 {
-    "name": "Sea of Solitude",
-    "defaults": {},
-    "launchers": {
-        "default": "origin",
-        "origin": {
-            "gameId": "SeaOfSolitude.exe"
-        }
+    "Key": "Sea of Solitude",
+    "Defaults": {
+        "GameExe": "SeaOfSolitude.exe"
+    },
+    "Launchers": {
+        "Default": "Origin",
+        "Origin": {}
     }
 }

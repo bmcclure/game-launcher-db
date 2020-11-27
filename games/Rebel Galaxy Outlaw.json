@@ -1,10 +1,10 @@
 {
-    "name": "Rebel Galaxy Outlaw",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "RebelGalaxyEGS.exe"
-        }
+    "Key": "Rebel Galaxy Outlaw",
+    "Defaults": {
+        "GameExe": "RebelGalaxyEGS.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }

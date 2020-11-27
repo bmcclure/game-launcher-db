@@ -1,9 +1,9 @@
 {
-    "name": "Riot Vanguard",
-    "class": "RiotVanguardLauncher",
-    "exe": "",
-    "defaults": {
-        "gameType": "riot",
-        "runThenWait": true
+    "Key": "Riot",
+    "Name": "Riot Vanguard",
+    "Defaults": {
+        "LauncherClass": "RiotVanguardLauncher",
+        "GameType": "Riot",
+        "GameRunMethod": "Run"
     }
 }

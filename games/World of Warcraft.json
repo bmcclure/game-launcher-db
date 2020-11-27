@@ -1,10 +1,10 @@
 {
-    "name": "World of Warcraft",
-    "defaults": {},
-    "launchers": {
-        "default": "blizzard",
-        "blizzard": {
-            "gameId": "wow" 
+    "Key": "World of Warcraft",
+    "Defaults": {},
+    "Launchers": {
+        "Default": "Blizzard",
+        "Blizzard": {
+            "LauncherSpecificId": "wow" 
         }
     }
 }

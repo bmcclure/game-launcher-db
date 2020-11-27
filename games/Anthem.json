@@ -1,10 +1,10 @@
 {
-    "name": "Anthem",
-    "defaults": {},
-    "launchers": {
-        "default": "origin",
-        "origin": {
-            "gameId": "Anthem.exe"
-        }
+    "Key": "Anthem",
+    "Defaults": {
+        "GameExe": "Anthem.exe"
+    },
+    "Launchers": {
+        "Default": "Origin",
+        "Origin": {}
     }
 }

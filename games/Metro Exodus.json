@@ -1,11 +1,11 @@
 {
-    "name": "Metro Exodus",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "4A Engine",
-            "useAhkClass": true
-        }
+    "Key": "Metro Exodus",
+    "Defaults": {
+        "GameProcessType": "Class",
+        "GameProcessId": "4A Engine"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }

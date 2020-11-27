@@ -1,8 +1,8 @@
 {
-    "name": "Microsoft Store Game",
-    "class": "UriGame",
-    "defaults": {
-        "supportsShortcut": false
-    },
-    "requiredOptions": []
+    "Key": "Microsoft Store Game",
+    "Name": "Microsoft Store Game",
+    "Defaults": {
+        "GameClass": "UriGame",
+        "UsesShortcut": false
+    }
 }

@@ -1,10 +1,10 @@
 {
-    "name": "A Way Out",
-    "defaults": {},
-    "launchers": {
-        "default": "origin",
-        "origin": {
-            "gameId": "AWayOut.exe"
-        }
+    "Key": "A Way Out",
+    "Defaults": {
+        "GameExe": "AWayOut.exe"
+    },
+    "Launchers": {
+        "Default": "Origin",
+        "Origin": {}
     }
 }

@@ -1,10 +1,10 @@
 {
-    "name": "Borderlands 3",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "Borderlands3.exe"
-        }
+    "Key": "Borderlands 3",
+    "Defaults": {
+        "GameExe": "Borderlands3.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }

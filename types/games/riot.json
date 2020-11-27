@@ -1,8 +1,8 @@
 {
-    "name": "Riot Game",
-    "class": "ShortcutGame",
-    "defaults": {
-        "supportsShortcut": true
-    },
-    "requiredOptions": []
+    "Key": "Riot Game",
+    "Name": "Riot Game",
+    "Defaults": {
+        "GameClass": "ShortcutGame",
+        "UsesShortcut": true
+    }
 }

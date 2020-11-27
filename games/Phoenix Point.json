@@ -1,10 +1,10 @@
 {
-    "name": "Phoenix Point",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "PhoenixPointWin64.exe"
-        }
+    "Key": "Phoenix Point",
+    "Defaults": {
+        "GameExe": "PhoenixPointWin64.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }

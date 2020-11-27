@@ -1,10 +1,10 @@
 {
-    "name": "Diablo III",
-    "defaults": {},
-    "launchers": {
-        "default": "blizzard",
-        "blizzard": {
-            "gameId": "d3"
+    "Key": "Diablo III",
+    "Defaults": {},
+    "Launchers": {
+        "Default": "Blizzard",
+        "Blizzard": {
+            "LauncherSpecificId": "d3"
         }
     }
 }

@@ -1,10 +1,10 @@
 {
-    "name": "Overwatch",
-    "defaults": {},
-    "launchers": {
-        "default": "blizzard",
-        "blizzard": {
-            "gameId": "ow"
+    "Key": "Overwatch",
+    "Defaults": {},
+    "Launchers": {
+        "Default": "Blizzard",
+        "Blizzard": {
+            "LauncherSpecificId": "ow"
         }
     }
 }

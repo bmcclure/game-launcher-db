@@ -1,11 +1,11 @@
 {
-    "name": "Fallout 76",
-    "defaults": {},
-    "launchers": {
-        "default": "bethesda",
-        "bethesda": {
-            "gameId": "Fallout76",
-            "useAhkClass": true
-        }
+    "Key": "Fallout 76",
+    "Defaults": {
+        "GameProcessType": "Title",
+        "GameProcessId": "Fallout76"
+    },
+    "Launchers": {
+        "Default": "Bethesda",
+        "Bethesda": {}
     }
 }

@@ -1,8 +1,8 @@
 {
-    "name": "BnetLauncher",
-    "class": "BnetlauncherGame",
-    "defaults": {
-        "supportsShortcut": false
-    },
-    "requiredOptions": []
+    "Key": "BnetLauncher",
+    "Name": "BnetLauncher",
+    "Defaults": {
+        "GameClass": "BnetlauncherGame",
+        "GameUsesShortcut": false
+    }
 }

@@ -1,10 +1,10 @@
 {
-    "name": "The Cycle",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "The Cycle.exe"
-        }
+    "Key": "The Cycle",
+    "Defaults": {
+        "GameExe": "The Cycle.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }

@@ -1,10 +1,12 @@
 {
-    "name": "Call of Duty - Modern Warfare 2 CR",
-    "defaults": {},
-    "launchers": {
-        "default": "blizzard",
-        "blizzard": {
-            "gameId": "codmw2cr"
+    "Key": "Call of Duty - Modern Warfare 2 CR",
+    "Defaults": {
+        "DisplayName": "Call of Duty: Modern Warfare 2 Campaign Remastered"
+    },
+    "Launchers": {
+        "Default": "Blizzard",
+        "Blizzard": {
+            "LauncherSpecificId": "codmw2cr"
         }
     }
 }

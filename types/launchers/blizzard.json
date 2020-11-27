@@ -1,8 +1,8 @@
 {
-    "name": "Blizzard Launcher",
-    "class": "ThinLauncher",
-    "exe": "",
-    "defaults": {
-        "gameType": "bnetlauncher"
+    "Key": "Blizzard",
+    "Name": "Blizzard Launcher",
+    "Defaults": {
+        "LauncherClass": "ThinLauncher",
+        "GameEntityType": "BnetLauncher"
     }
 }

@@ -1,10 +1,10 @@
 {
-    "name": "Superliminal",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "Superliminal.exe"
-        }
+    "Key": "Superliminal",
+    "Defaults": {
+        "GameExe": "Superliminal.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }

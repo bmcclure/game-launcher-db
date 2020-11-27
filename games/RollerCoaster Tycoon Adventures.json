@@ -1,10 +1,10 @@
 {
-    "name": "RollerCoaster Tycoon Adventures",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "rcta.exe"
-        }
+    "Key": "RollerCoaster Tycoon Adventures",
+    "Defaults": {
+        "GameExe": "rcta.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }

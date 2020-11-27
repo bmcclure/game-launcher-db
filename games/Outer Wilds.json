@@ -1,10 +1,10 @@
 {
-    "name": "Outer Wilds",
-    "defaults": {},
-    "launchers": {
-        "default": "epic",
-        "epic": {
-            "gameId": "OuterWilds.exe"
-        }
+    "Key": "Outer Wilds",
+    "Defaults": {
+        "gameExe": "OuterWilds.exe"
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {}
     }
 }
