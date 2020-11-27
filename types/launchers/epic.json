@@ -4,10 +4,10 @@
     "Defaults": {
         "LauncherClass": "LauncherLauncher",
         "LauncherExe": "EpicGamesLauncher.exe",
-        "GameEntityType": "Default",
-        "GameRunMethod": "Run",
         "LauncherCloseMethod": "AutoKill",
         "LauncherCloseBeforeRun": true,
-        "LauncherCloseAfterRun": true
+        "LauncherCloseAfterRun": true,
+        "GameEntityType": "Default",
+        "GameRunMethod": "Run"
     }
 }

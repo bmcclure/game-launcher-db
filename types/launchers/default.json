@@ -1,9 +1,8 @@
 {
     "Key": "Launcher",
     "Name": "Launcher",
-    "Class": "Launcher",
-    "exe": "",
     "Defaults": {
-        "gameType": "Default"
+        "LauncherClass": "Launcher",
+        "GameType": "Default"
     }
 }
