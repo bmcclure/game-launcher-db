@@ -8,12 +8,12 @@
     "Zipped": true,
     "Assets": {
         "MPRESS": {
-            "Type": "download",
+            "Type": "Download",
             "Url": "https://github.com/bmcclure/launcher-db/releases/download/1.0.2/mpress.exe",
             "Path": "Compiler\\mpress.exe"
         },
         "Ahk2Exe": {
-            "Type": "download",
+            "Type": "Download",
             "Url": "https://github.com/bmcclure/launcher-db/releases/download/1.0.2/Ahk2Exe.exe",
             "Path": "Compiler\\Ahk2Exe.exe"
         }
