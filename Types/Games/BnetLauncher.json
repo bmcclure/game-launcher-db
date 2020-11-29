@@ -2,7 +2,7 @@
     "Key": "BnetLauncher",
     "Name": "BnetLauncher",
     "Defaults": {
-        "GameEntityClass": "BnetlauncherGame",
+        "GameClass": "BnetlauncherGame",
         "GameUsesShortcut": false
     }
 }

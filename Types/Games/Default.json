@@ -1,7 +1,7 @@
 {
     "Key": "Game",
     "Defaults": {
-        "GameEntityClass": "SimpleGame",
+        "GameClass": "SimpleGame",
         "GameUsesShortcut": true
     }
 }

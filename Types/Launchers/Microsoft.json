@@ -2,8 +2,8 @@
     "Key": "Microsoft",
     "name": "Microsoft Store",
     "Defaults": {
-        "LauncherEntityClassyClass": "SimpleLauncher",
-        "GameEntityType": "Microsoft",
+        "LauncherClass": "SimpleLauncher",
+        "GameType": "Microsoft",
         "GameRunMethod": "Run"
     }
 }

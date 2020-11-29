@@ -2,8 +2,8 @@
     "Key": "Riot",
     "Name": "Riot Vanguard",
     "Defaults": {
-        "LauncherEntityClassyClass": "SimpleLauncher",
-        "GameEntityTypetyType": "Riot",
+        "LauncherClass": "SimpleLauncher",
+        "GameType": "Riot",
         "GameRunMethod": "Run"
     }
 }

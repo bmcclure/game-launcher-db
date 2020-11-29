@@ -2,12 +2,12 @@
     "Key": "Epic",
     "Name": "Epic Games Launcher",
     "Defaults": {
-        "LauncherEntityClassyClass": "SimpleLauncher",
+        "LauncherClass": "SimpleLauncher",
         "LauncherExe": "EpicGamesLauncher.exe",
         "LauncherCloseMethod": "AutoKill",
         "LauncherCloseBeforeRun": true,
         "LauncherCloseAfterRun": true,
-        "GameEntityType": "Default",
+        "GameType": "Default",
         "GameRunMethod": "Run"
     }
 }

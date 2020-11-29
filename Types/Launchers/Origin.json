@@ -2,12 +2,12 @@
     "Key": "Origin",
     "Name": "Origin",
     "Defaults": {
-        "LauncherEntityClassyClass": "SimpleLauncher",
+        "LauncherClass": "SimpleLauncher",
         "LauncherExe": "Origin.exe",
         "LauncherCloseMethod": "AutoKill",
         "LauncherCloseBeforeRun": true,
         "LauncherCloseAfterRun": true,
-        "GameEntityType": "Default",
+        "GameType": "Default",
         "GameRunMethod": "Run"
     }
 }

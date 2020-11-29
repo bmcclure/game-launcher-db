@@ -2,8 +2,8 @@
     "Key": "Blizzard",
     "Name": "Blizzard Launcher",
     "Defaults": {
-        "LauncherEntityClassyClass": "SimpleLauncher",
-        "GameEntityType": "BnetLauncher",
+        "LauncherClass": "SimpleLauncher",
+        "GameType": "BnetLauncher",
         "GameRunMethod": "Run"
     }
 }

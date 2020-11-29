@@ -2,12 +2,12 @@
     "Key": "Bethesda",
     "Name": "Bethesda.net Launcher",
     "Defaults": {
-        "LauncherEntityClassyClass": "SimpleLauncher",
+        "LauncherClass": "SimpleLauncher",
         "LauncherExe": "BethesdaNetLauncher.exe",
         "LauncherCloseMethod": "AutoKill",
         "LauncherCloseBeforeRun": true,
         "LauncherCloseAfterRun": true,
-        "GameEntityType": "Default",
+        "GameType": "Default",
         "GameRunMethod": "Run"
     }
 }
