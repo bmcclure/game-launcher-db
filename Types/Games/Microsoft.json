@@ -2,7 +2,7 @@
     "Key": "Microsoft Store Game",
     "Name": "Microsoft Store Game",
     "Defaults": {
-        "GameClass": "SimpleGame",
+        "GameEntityClassyClass": "SimpleGame",
         "UsesShortcut": false
     }
 }

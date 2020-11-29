@@ -2,7 +2,7 @@
     "Key": "Launcher",
     "Name": "Launcher",
     "Defaults": {
-        "LauncherClass": "SimpleLauncher",
-        "GameType": "Default"
+        "LauncherEntityClassyClass": "SimpleLauncher",
+        "GameEntityTypetyType": "Default"
     }
 }

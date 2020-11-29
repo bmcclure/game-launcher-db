@@ -2,7 +2,7 @@
     "Key": "Origin",
     "Name": "Origin",
     "Defaults": {
-        "LauncherClass": "SimpleLauncher",
+        "LauncherEntityClassyClass": "SimpleLauncher",
         "LauncherExe": "Origin.exe",
         "LauncherCloseMethod": "AutoKill",
         "LauncherCloseBeforeRun": true,
