@@ -2,7 +2,7 @@
     "Key": "Bethesda",
     "Name": "Bethesda.net Launcher",
     "Defaults": {
-        "LauncherClass": "LauncherLauncher",
+        "LauncherClass": "SimpleLauncher",
         "LauncherExe": "BethesdaNetLauncher.exe",
         "LauncherCloseMethod": "AutoKill",
         "LauncherCloseBeforeRun": true,

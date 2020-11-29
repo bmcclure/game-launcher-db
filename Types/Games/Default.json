@@ -1,7 +1,7 @@
 {
     "Key": "Game",
     "Defaults": {
-        "GameClass": "ShortcutGame",
+        "GameClass": "SimpleGame",
         "GameUsesShortcut": true
     }
 }

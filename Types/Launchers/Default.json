@@ -2,7 +2,7 @@
     "Key": "Launcher",
     "Name": "Launcher",
     "Defaults": {
-        "LauncherClass": "Launcher",
+        "LauncherClass": "SimpleLauncher",
         "GameType": "Default"
     }
 }
