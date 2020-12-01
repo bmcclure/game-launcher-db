@@ -1,7 +1,10 @@
 {
     "Key": "Dauntless",
     "Defaults": {
-        "GameExe": "Dauntless-Win64-Shipping.exe"
+        "GameExe": "Dauntless-Win64-Shipping.exe",
+        "GameHasLoadingWindow": true,
+        "GameLoadingWindowProcessType": "Class",
+        "GameLoadingWindowProcessId": "EACLauncherWnd"
     },
     "Launchers": {
         "Default": "Epic",
