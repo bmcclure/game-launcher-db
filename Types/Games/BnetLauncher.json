@@ -3,6 +3,7 @@
     "Name": "BnetLauncher",
     "Defaults": {
         "GameClass": "BnetlauncherGame",
-        "GameUsesShortcut": false
+        "GameUsesShortcut": false,
+        "GameRunType": "Command"
     }
 }
