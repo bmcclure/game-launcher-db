@@ -4,7 +4,7 @@
     "Defaults": {
         "LauncherClass": "SimpleLauncher",
         "LauncherExe": "Origin.exe",
-        "LauncherCloseMethod": "AutoKill",
+        "LauncherCloseMethod": "Auto",
         "LauncherCloseBeforeRun": true,
         "LauncherCloseAfterRun": true,
         "GameType": "Default",

@@ -4,7 +4,7 @@
     "Defaults": {
         "LauncherClass": "SimpleLauncher",
         "LauncherExe": "BethesdaNetLauncher.exe",
-        "LauncherCloseMethod": "AutoKill",
+        "LauncherCloseMethod": "Auto",
         "LauncherCloseBeforeRun": true,
         "LauncherCloseAfterRun": true,
         "GameType": "Default",
