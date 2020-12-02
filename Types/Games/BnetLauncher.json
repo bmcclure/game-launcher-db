@@ -4,6 +4,7 @@
     "Defaults": {
         "GameClass": "BnetlauncherGame",
         "GameUsesShortcut": false,
-        "GameRunType": "Command"
+        "GameRunType": "Command",
+        "RunCmd": "{{DependenciesDir}}\\BnetLauncher\\bnetlauncher.exe {{LauncherSpecificId}}"
     }
 }
