@@ -3,6 +3,7 @@
     "Name": "Blizzard Launcher",
     "Defaults": {
         "LauncherClass": "SimpleLauncher",
+        "LauncherExe": "Battle.net.exe",
         "GameType": "BnetLauncher",
         "GameRunMethod": "Run"
     }
