@@ -6,7 +6,8 @@
     "Launchers": {
         "Default": "Blizzard",
         "Blizzard": {
-            "LauncherSpecificId": "codmw2019"
+            "LauncherSpecificId": "codmw2019",
+            "GameBlizzardProductId": ""
         }
     }
 }

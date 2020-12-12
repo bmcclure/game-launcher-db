@@ -6,7 +6,8 @@
     "Launchers": {
         "Default": "Blizzard",
         "Blizzard": {
-            "LauncherSpecificId": "codbocw"
+            "LauncherSpecificId": "codbocw",
+            "GameBlizzardProductId": "zeus"
         }
     }
 }

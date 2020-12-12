@@ -4,6 +4,10 @@
     "Defaults": {
         "LauncherClass": "SimpleLauncher",
         "LauncherExe": "EpicGamesLauncher.exe",
+        "LauncherLocateMethod": "Registry",
+        "LauncherLocateRegKey": "HKEY_CLASSES_ROOT\\com.epicgames.launcher\\shell\\open\\command",
+        "LauncherLocateRegRemovePrefix": "\"",
+        "LauncherLocateRegRemoveSuffix": "\\EpicGamesLauncher.exe\" %1",
         "LauncherCloseMethod": "Auto",
         "LauncherCloseBeforeRun": true,
         "LauncherCloseAfterRun": true,

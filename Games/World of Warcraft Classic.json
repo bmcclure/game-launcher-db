@@ -4,7 +4,8 @@
     "Launchers": {
         "Default": "Blizzard",
         "Blizzard": {
-            "LauncherSpecificId": "wowclassic" 
+            "LauncherSpecificId": "wowclassic",
+            "GameBlizzardProductId": ""
         }
     }
 }

@@ -1,9 +1,11 @@
 {
-    "Key": "BnetLauncher",
-    "Name": "BnetLauncher",
+    "Key": "Blizzard",
+    "Name": "Blizzard",
     "Defaults": {
-        "GameClass": "BnetlauncherGame",
+        "GameClass": "BlizzardGame",
+        "GameLocateMethod": "BlizzardProductDb",
         "GameUsesShortcut": false,
+        "GameReplaceProcess": true,
         "GameRunType": "Command",
         "RunCmd": "{{DependenciesDir}}\\BnetLauncher\\bnetlauncher.exe {{LauncherSpecificId}}"
     }

@@ -4,7 +4,8 @@
     "Launchers": {
         "Default": "Blizzard",
         "Blizzard": {
-            "LauncherSpecificId": "ow"
+            "LauncherSpecificId": "ow",
+            "GameBlizzardProductId": "pro"
         }
     }
 }

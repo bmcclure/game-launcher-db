@@ -4,7 +4,11 @@
     "Defaults": {
         "LauncherClass": "SimpleLauncher",
         "LauncherExe": "Battle.net.exe",
-        "GameType": "BnetLauncher",
+        "LauncherLocateMethod": "Registry",
+        "LauncherLocateRegView": 32,
+        "LauncherLocateRegKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Battle.net",
+        "LauncherLocateRegValue": "InstallLocation",
+        "GameType": "Blizzard",
         "GameRunMethod": "Run"
     }
 }
