@@ -2,8 +2,8 @@
     "Key": "Dragon Age Inquisition",
     "Defaults": {
         "DisplayName": "Dragon Age: Inquisition",
-        "GameProcessType": "Title",
-        "GameProcessId": "Dragon Age: Inquisition"
+        "GameWindowTitle": "Dragon Age: Inquisition",
+        "GameProcessType": "Title"
     },
     "Launchers": {
         "Default": "Origin",

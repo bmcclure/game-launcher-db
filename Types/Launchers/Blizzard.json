@@ -4,6 +4,7 @@
     "Defaults": {
         "LauncherClass": "SimpleLauncher",
         "LauncherExe": "Battle.net.exe",
+        "LauncherWindowTitle": "Blizzard Battle.net",
         "LauncherLocateMethod": "Registry",
         "LauncherLocateRegView": 32,
         "LauncherLocateRegKey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Battle.net",
