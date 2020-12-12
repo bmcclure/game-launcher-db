@@ -2,7 +2,7 @@
     "Key": "Blizzard",
     "Name": "Blizzard",
     "Defaults": {
-        "GameClass": "BlizzardGame",
+        "GameClass": "SimpleGame",
         "GameLocateMethod": "BlizzardProductDb",
         "GameUsesShortcut": false,
         "GameReplaceProcess": true,
