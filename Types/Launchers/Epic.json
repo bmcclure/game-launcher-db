@@ -6,7 +6,6 @@
         "LauncherExe": "EpicGamesLauncher.exe",
         "LauncherLocateMethod": "Registry",
         "LauncherLocateRegKey": "HKEY_CLASSES_ROOT\\com.epicgames.launcher\\shell\\open\\command",
-        "LauncherLocateRegRemovePrefix": "\"",
         "LauncherLocateRegStripQuotes": true,
         "LauncherLocateRegRemoveSuffix": "\\EpicGamesLauncher.exe %1",
         "LauncherCloseMethod": "Auto",
