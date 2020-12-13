@@ -1,7 +1,8 @@
 {
     "Key": "Call of Duty - Black Ops Cold War",
     "Defaults": {
-        "DisplayName": "Call of Duty: Black Ops Cold War"
+        "DisplayName": "Call of Duty: Black Ops Cold War",
+        "GameExe": "BlackOpsColdWar.exe"
     },
     "Launchers": {
         "Default": "Blizzard",
