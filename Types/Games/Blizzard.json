@@ -6,7 +6,6 @@
         "GameLocateMethod": "BlizzardProductDb",
         "GameUsesShortcut": false,
         "GameReplaceProcess": true,
-        "GameRunType": "Command",
-        "RunCmd": "{{DependenciesDir}}\\BnetLauncher\\bnetlauncher.exe {{LauncherSpecificId}}"
+        "GameRunType": "Command"
     }
 }
