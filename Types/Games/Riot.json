@@ -2,7 +2,6 @@
     "Key": "Riot Game",
     "Name": "Riot Game",
     "Defaults": {
-        "GameClass": "SimpleGame",
-        "GameUsesShortcut": true
+        "GameClass": "SimpleGame"
     }
 }
