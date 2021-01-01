@@ -4,7 +4,7 @@
     "Launchers": {
         "Default": "Blizzard",
         "Blizzard": {
-            "LauncherSpecificId": "sc2",
+            "GameLauncherSpecificId": "sc2",
             "GameBlizzardProductId": "s2"
         }
     }
