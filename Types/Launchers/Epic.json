@@ -8,10 +8,8 @@
         "LauncherLocateRegKey": "HKEY_CLASSES_ROOT\\com.epicgames.launcher\\shell\\open\\command",
         "LauncherLocateRegStripQuotes": true,
         "LauncherLocateRegRemoveSuffix": "\\EpicGamesLauncher.exe %1",
-        "LauncherCloseMethod": "Auto",
-        "LauncherCloseBeforeRun": true,
-        "LauncherCloseAfterRun": true,
-        "GameType": "Default",
-        "GameRunMethod": "Run"
+        "LauncherCloseBeforeRun": false,
+        "LauncherCloseAfterRun": false,
+        "GameType": "Epic"
     }
 }

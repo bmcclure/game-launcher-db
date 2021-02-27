@@ -1,0 +1,12 @@
+{
+    "Key": "Epic",
+    "Name": "Epic",
+    "Defaults": {
+        "GameClass": "SimpleGame",
+        "GameRunMethod": "Scheduled",
+        "GameRunType": "Command",
+        "GameRunCmd": "com.epicgames.launcher://apps/{{GameLauncherSpecificId}}?action=launch&silent=true",
+        "GameUsesShortcut": false,
+        "GameReplaceProcess": true
+    }
+}
