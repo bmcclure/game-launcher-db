@@ -1,6 +1,8 @@
 {
     "Key": "Diablo III",
-    "Defaults": {},
+    "Defaults": {
+        "GameExe": "Diablo III64.exe"
+    },
     "Launchers": {
         "Default": "Blizzard",
         "Blizzard": {
