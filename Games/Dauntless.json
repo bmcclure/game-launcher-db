@@ -4,7 +4,8 @@
         "GameExe": "Dauntless-Win64-Shipping.exe",
         "GameHasLoadingWindow": true,
         "GameLoadingWindowProcessType": "Class",
-        "GameLoadingWindowProcessId": "EACLauncherWnd"
+        "GameLoadingWindowProcessId": "EACLauncherWnd",
+        "GameReplaceProcess": false
     },
     "Launchers": {
         "Default": "Epic",
