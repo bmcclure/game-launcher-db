@@ -1,0 +1,13 @@
+{
+    "Key": "Diabotical",
+    "Defaults": {
+        "GameExe": "diabotical.exe",
+        "GameReplaceProcess": false
+    },
+    "Launchers": {
+        "Default": "Epic",
+        "Epic": {
+            "GameLauncherSpecificId": "Honeycreeper"
+        }
+    }
+}

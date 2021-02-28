@@ -10,7 +10,7 @@
     "Launchers": {
         "Default": "Epic",
         "Epic": {
-            "GameRunCmd": "com.Epicgames.launcher://apps/Jackal?action=launch&silent=true"
+            "GameLauncherSpecificId": "Jackal"
         }
     }
 }
